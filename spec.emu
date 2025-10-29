@@ -13,7 +13,7 @@ contributors: Eemeli Aro
   <h1>Module Semantics</h1>
 
   <emu-note type="editor">
-    <p>See <a href="https://github.com/eemeli/proposal-import-text/blob/main/README.md">the explainer</a> for more information.</p>
+    <p>See <a href="https://github.com/eemeli/proposal-import-text">the explainer</a> for more information.</p>
     <p>This proposal is modeled after the <a href="https://github.com/tc39/proposal-import-bytes">Import Bytes proposal</a>.</p>
   </emu-note>
 

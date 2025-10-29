@@ -103,5 +103,5 @@ and explicitly decoding it:
 
 ```js
 import uint8array from "path/to/file.txt" with { type: "bytes" };
-let text = new TextDecoder("utf-16").decode(uint8array);
+let text = new TextDecoder("utf-16le").decode(uint8array);
 ```
