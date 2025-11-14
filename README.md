@@ -93,12 +93,12 @@ with which a file may be imported as a string value:
 import text from "path/to/file.txt" with { type: "text" };
 ```
 
-No affordance for defining the encoding ought to be given,
-with all files parsed as UTF-8.
+No affordance for defining the encoding ought to be given.
 
 ## Shortcomings
 
-Importing non-UTF-8 text will require importing it as an Uint8Array,
+Importing text with an encoding defined within JavaScript
+will require importing it as an Uint8Array,
 and explicitly decoding it:
 
 ```js
