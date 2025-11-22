@@ -28,7 +28,7 @@ contributors: Eemeli Aro
       </h1>
       <dl class="header">
         <dt>description</dt>
-        <dd></dd>
+        <dd>It creates a Synthetic Module Record whose default export is _source_.</dd>
       </dl>
 
       <emu-alg>
