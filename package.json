@@ -7,8 +7,8 @@
     "build:strict": "npm run build -- --strict"
   },
   "devDependencies": {
-    "@tc39/ecma262-biblio": "^2.1.2895",
-    "ecmarkup": "^21.3.0"
+    "@tc39/ecma262-biblio": "^2.1.3023",
+    "ecmarkup": "^23.0.2"
   },
   "engines": {
     "node": ">= 18"
