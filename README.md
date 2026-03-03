@@ -4,7 +4,8 @@
 - Champion: [Eemeli Aro](https://github.com/eemeli)
 - Reviewers: [Jordan Harband](https://github.com/ljharb), [Nicolò Ribaudo](https://github.com/nicolo-ribaudo)
 - Presentations:
-  - [TC39 2025-11](https://docs.google.com/presentation/d/1IMeeHjpUNZbrV7VTfgproPaht5dCeaeEFw8mE9tf7TE/edit)
+  - 2025 November: For Stage 1/2/2.7 ([slides](https://docs.google.com/presentation/d/1IMeeHjpUNZbrV7VTfgproPaht5dCeaeEFw8mE9tf7TE/edit), [notes](https://github.com/tc39/notes/blob/main/meetings/2025-11/november-18.md#import-text))
+  - 2026 March: For Stage 2.7/3 ([slides](https://docs.google.com/presentation/d/1mbkpHjqihHBx6rp07Snb8uB8XevJk7jz2xPSyQppSjE/edit))
 
 In a similar manner to why importing
 [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import/with#importing_json_modules_with_the_type_attribute)
