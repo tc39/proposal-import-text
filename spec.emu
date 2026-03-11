@@ -30,7 +30,7 @@ contributors: Eemeli Aro
         <dt>description</dt>
         <dd>
           It creates a Synthetic Module Record whose default export is _source_,
-          a String value that should represent textual data.
+          a String whose value should represent textual data.
         </dd>
       </dl>
 
