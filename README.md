@@ -1,11 +1,18 @@
 # Import Text
 
-- Stage: **2**
+- Stage: **3**
 - Champion: [Eemeli Aro](https://github.com/eemeli)
 - Reviewers: [Jordan Harband](https://github.com/ljharb), [Nicolò Ribaudo](https://github.com/nicolo-ribaudo)
 - Presentations:
   - 2025 November: For Stage 1/2/2.7 ([slides](https://docs.google.com/presentation/d/1IMeeHjpUNZbrV7VTfgproPaht5dCeaeEFw8mE9tf7TE/edit), [notes](https://github.com/tc39/notes/blob/main/meetings/2025-11/november-18.md#import-text))
   - 2026 March: For Stage 2.7/3 ([slides](https://docs.google.com/presentation/d/1mbkpHjqihHBx6rp07Snb8uB8XevJk7jz2xPSyQppSjE/edit))
+- Related changes in other specifications:
+  - HTML Standard: [whatwg/html#11933](https://github.com/whatwg/html/pull/11933)
+  - Fetch Standard: [whatwg/fetch#1898](https://github.com/whatwg/fetch/pull/1898)
+  - Content Security Policy: [w3c/webappsec-csp#794](https://github.com/w3c/webappsec-csp/pull/794)
+- Tests:
+  - [tc39/test262#4607](https://github.com/tc39/test262/pull/4607)
+  - [web-platform-tests/wpt#56812](https://github.com/web-platform-tests/wpt/pull/56812)
 
 In a similar manner to why importing
 [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import/with#importing_json_modules_with_the_type_attribute)
