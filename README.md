@@ -10,6 +10,7 @@
   - HTML Standard: [whatwg/html#11933](https://github.com/whatwg/html/pull/11933)
   - Fetch Standard: [whatwg/fetch#1898](https://github.com/whatwg/fetch/pull/1898)
   - Content Security Policy: [w3c/webappsec-csp#794](https://github.com/w3c/webappsec-csp/pull/794)
+  - WinterTC Minimum common web API: [WinterTC55/proposal-minimum-common-api#117](https://github.com/WinterTC55/proposal-minimum-common-api/issues/117)
 - Tests:
   - [tc39/test262#4607](https://github.com/tc39/test262/pull/4607)
   - [web-platform-tests/wpt#56812](https://github.com/web-platform-tests/wpt/pull/56812)
