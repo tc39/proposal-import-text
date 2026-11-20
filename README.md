@@ -5,7 +5,7 @@
 - Reviewers: [Jordan Harband](https://github.com/ljharb), [Nicolò Ribaudo](https://github.com/nicolo-ribaudo)
 - Presentations:
   - 2025 November: For Stage 1/2/2.7 ([slides](https://docs.google.com/presentation/d/1IMeeHjpUNZbrV7VTfgproPaht5dCeaeEFw8mE9tf7TE/edit), [notes](https://github.com/tc39/notes/blob/main/meetings/2025-11/november-18.md#import-text))
-  - 2026 March: For Stage 2.7/3 ([slides](https://docs.google.com/presentation/d/1mbkpHjqihHBx6rp07Snb8uB8XevJk7jz2xPSyQppSjE/edit))
+  - 2026 March: For Stage 2.7/3 ([slides](https://docs.google.com/presentation/d/1mbkpHjqihHBx6rp07Snb8uB8XevJk7jz2xPSyQppSjE/edit), [notes](https://github.com/tc39/notes/blob/main/meetings/2026-03/march-11.md#import-text-for-stage-27-or-3))
 - Related changes in other specifications:
   - HTML Standard: [whatwg/html#11933](https://github.com/whatwg/html/pull/11933)
   - Fetch Standard: [whatwg/fetch#1898](https://github.com/whatwg/fetch/pull/1898)
